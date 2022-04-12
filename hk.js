@@ -1,7 +1,7 @@
 const puppeteer=require('puppeteer');
 const link='https://www.hackerrank.com/auth/login';
-const id='yuvrajsingh6685@gmail.com';
-const password='hanuman5202';
+const id='yuvi2002@gmail.com';
+const password='restoftheworld';
 let page;
 const codeObj=require("./codes.js")
 
